@@ -34,16 +34,16 @@ const contrastGroups = {
 ---------------------------- */
 
 const audioFiles = [
-  "audio/ca.mp3",
-  "audio/caa.mp3",
-  "audio/caw.mp3",
-  "audio/co.mp3",
-  "audio/coo.mp3",
-  "audio/cow.mp3",
-  "audio/cu.mp3",
-  "audio/cuw.mp3",
-  "audio/ce.mp3",
-  "audio/cee.mp3"
+  "audio/an.mp3",
+  "audio/aan.mp3",
+  "audio/awn.mp3",
+  "audio/on.mp3",
+  "audio/oon.mp3",
+  "audio/own.mp3",
+  "audio/un.mp3",
+  "audio/uwn.mp3",
+  "audio/en.mp3",
+  "audio/een.mp3"
 ];
 
 /* ---------------------------
