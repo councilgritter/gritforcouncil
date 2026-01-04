@@ -1,3 +1,4 @@
+console.log("game.js loaded");
 const sounds = [
   {
     file: "audio/caar.mp3",
