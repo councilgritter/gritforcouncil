@@ -1,6 +1,38 @@
 <!DOCTYPE html>
-<html>
-  <body>
-    <h1>DEPLOY TEST</h1>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Vietnamese Tone Trainer</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      padding: 2rem;
+    }
+
+    #buttons button {
+      font-size: 1.5rem;
+      margin: 0.5rem;
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+    }
+
+    #feedback {
+      margin-top: 1rem;
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Vietnamese Tone Trainer</h1>
+
+  <button id="play">🔊 Play sound</button>
+
+  <div id="buttons"></div>
+
+  <div id="feedback"></div>
+
+  <script src="game.js"></script>
+</body>
 </html>
